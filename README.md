@@ -19,4 +19,4 @@ This repository is made for learning to connect MQTT with ESP 32 and Node JS. Th
  
 ## Results
 1. Node JS Server Response
-   ![Node JS Server Response](Results/"Screenshot 2024-03-28 at 17.58.19.png" "Node JS Server Response")
+   ![Node JS Server Response](Results/"ServerResponse" "Node JS Server Response")
