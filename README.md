@@ -34,4 +34,4 @@ This repository is made for learning to connect MQTT with ESP 32 and Node JS. Th
  ## What's Next?
  The next thing that you need is to parse the JSON data and connect the server with the databases and keep the data in your database.
 
- == Good Luck for trying this. ==
+ ### Good Luck for trying this.
