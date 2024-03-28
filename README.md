@@ -20,3 +20,18 @@ This repository is made for learning to connect MQTT with ESP 32 and Node JS. Th
 ## Results
 1. Node JS Server Response
    ![Node JS Server Response](Results/ServerResponse.png "Node JS Server Response")
+   This is the response of your NodeJS Server if you are already connected and if you get the message.
+2. Serial Monitor Log
+   ![Serial Monitor Log](Results/SerialMonitor.png "Serial Monitor Log")
+   This is the view in your serial monitor if you sending the data.
+3. List of Connections in RabbitMQ Dashboard
+   ![Connections in RabbitMQ Dashboard](Results/Connections.png "Connections view in RabbitMQ Dashboard")
+   This is the list of the connections that connect to your broker. 1 for your ESP32 and 1 for your NodeJS Server.
+4. List of Queues in RabbitMQ Dashboard
+   ![Queues in RabbitMQ Dashboard](Results/Dashboard.png "Queues in RabbitMQ Dashboard")
+   New Queues in RabbitMQ will be made and can be seen in the dashboard.
+
+ ## What's Next?
+ The next thing that you need is to parse the JSON data and connect the server with the databases and keep the data in your database.
+
+ == Good Luck for trying this. ==
